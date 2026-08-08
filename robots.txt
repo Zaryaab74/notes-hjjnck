@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Zaryaab74.github.io/notes-hjjnck/sitemap.xml
